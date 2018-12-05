@@ -1,0 +1,21 @@
+Isoleucine,I,AUU.AUC.AUA
+Leucine,L,CUU.CUC.CUA.CUG.UUA.UUG
+Valine,V,GUU.GUC.GUA.GUG
+Phenylalanine,F,UUU.UUC
+Methionine,M,AUG
+Cysteine,C,UGU.UGC
+Alanine,A,GCU.GCC.GCA.GCG
+Glycine,G,GGU.GGC.GGA.GGG
+Proline,P,CCU.CCC.CCA.CCG
+Threonine,T,ACU.ACC.ACA.ACG
+Serine,S,UCU.UCC.UCA.UCG.AGU.AGC
+Tyrosine,Y,UAU.UAC
+Uryptophan,W,UGG
+Glutamine,Q,CAA.CAG
+Asparagine,N,AAU.AAC
+Histidine,H,CAU.CAC
+Glutamic acid,E,GAA.GAG
+Aspartic acid,D,GAU.GAC
+Lysine,K,AAA.AAG
+Arginine,R,CGU.CGC.CGA.CGG.AGA.AGG
+Stop codons,Stop,UAA.UAG.UGA
